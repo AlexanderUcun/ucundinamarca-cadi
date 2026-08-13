@@ -31,7 +31,14 @@ Cada materia incluye:
   - `evaluaciones/`
 
 ## Índices automáticos
-Los índices de materias se mantienen en los `README.md` de cada semestre con enlaces directos a sus asignaturas.
+Se generan automáticamente los archivos:
+- `INDICE-MATERIAS.md` en la raíz del repositorio.
+- `INDICE-MATERIAS.md` en cada semestre.
+
+Para actualizarlos después de crear o renombrar materias:
+```bash
+./scripts/actualizar_indices.sh
+```
 
 ## Formatos de archivo soportados
 La estructura está preparada para almacenar:

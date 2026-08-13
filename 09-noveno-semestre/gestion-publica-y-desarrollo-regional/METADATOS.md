@@ -1,8 +1,0 @@
-# METADATOS - Gestion Publica y Desarrollo Regional
-
-- **Código de la asignatura:** [POR DEFINIR]
-- **Semestre:** 09-noveno-semestre
-- **Créditos:** [POR DEFINIR]
-- **Docente:** [POR DEFINIR]
-- **Fecha de actualización:** 2026-08-13
-- **Estado de completitud:** Estructura creada; pendiente carga documental de contenidos.
